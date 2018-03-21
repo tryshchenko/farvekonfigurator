@@ -2,7 +2,7 @@
 🎨 🖼️ 🖌️"farvekonfigurator" - from Danish - "configurator of colors";
 This is a library which allows you to configure colors easily. You shouldn't think of CSS anymore - direct methods improve performance and reduce the risks of mistakes.
 
-*Blazingly small. Just 990kb all together (1)*
+*Blazingly small. Just 990kb alltogether (1)*
 *Works without NPM or Yarn required!*
 *NO DEPENDENCIES!*
 
@@ -49,4 +49,4 @@ NO PROJECTS USED Farvekonfigurator FAILED. 100% SUCCESS RATE.
 Feel free to pick anything and go ahead with it.
 
 ## Comments
-1 - Not noticable in your 6 megabytes Angular bundle.
+1 - Not noticeable in your 6 megabytes Angular bundle.
