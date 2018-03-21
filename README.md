@@ -1,10 +1,11 @@
 # Farvekonfigurator
-🎨 🖼️ 🖌️"farvekonfigurator" - from Danish - "configurator of colors";
+🎨 🖼️ 🖌️ *"farvekonfigurator"* - from Danish - *"configurator of colors"*;
+
 This is a library which allows you to configure colors easily. You shouldn't think of CSS anymore - direct methods improve performance and reduce the risks of mistakes.
 
-*Blazingly small. Just 990kb alltogether (1)*
-*Works without NPM or Yarn required!*
-*NO DEPENDENCIES!*
+- *Blazingly small. Just 990kb alltogether (1)*
+- *Works without NPM or Yarn required!*
+- *NO DEPENDENCIES!*
 
 ## Why?
 Simplifying the work with CSS is our main goal.
@@ -27,9 +28,9 @@ And for colors either: color + color (hex, 3 symbols)
 
 ## Projects which hadn't used Farvekonfigurator and _FAILED_
 All the picture belong to their owners.
-![backbone](http://backbonejs.org/docs/images/backbone.png)
-![ember](https://www.emberjs.com/images/brand/ember_Ember-Light-e42a2b30.png)
-![polymer](https://www.polymer-project.org/images/logos/p-logo.png)
+![backbone](http://backbonejs.org/docs/images/backbone.png =150x)
+![ember](https://www.emberjs.com/images/brand/ember_Ember-Light-e42a2b30.png =150x)
+![polymer](https://www.polymer-project.org/images/logos/p-logo.png =250x)
 
 And many others.
 
