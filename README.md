@@ -28,10 +28,10 @@ And for colors either: color + color (hex, 3 symbols)
 
 ## Projects which hadn't used Farvekonfigurator and _FAILED_
 All the picture belong to their owners.
-![backbone](http://backbonejs.org/docs/images/backbone.png =150x)
-![ember](https://www.emberjs.com/images/brand/ember_Ember-Light-e42a2b30.png =150x)
-![polymer](https://www.polymer-project.org/images/logos/p-logo.png =250x)
 
+<img src="http://backbonejs.org/docs/images/backbone.png" width="300">
+<img src="https://www.emberjs.com/images/brand/ember_Ember-Light-e42a2b30.png" width="300">
+<img src="https://www.polymer-project.org/images/logos/p-logo.png" width="300">
 And many others.
 
 ## Projects which USED used Farvekonfigurator and _FAILED_
