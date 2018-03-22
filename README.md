@@ -1,4 +1,6 @@
 # Farvekonfigurator
+[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+
 🎨 🖼️ 🖌️ *"farvekonfigurator"* - from Danish - *"configurator of colors"*;
 
 This is a library which allows you to configure colors easily. You shouldn't think of CSS anymore - direct methods improve performance and reduce the risks of mistakes.
@@ -45,6 +47,8 @@ NO PROJECTS USED Farvekonfigurator FAILED. 100% SUCCESS RATE.
 - Add opacity configuration
 - Write unit tests
 - Docker, Travis
+- Leverage blockchain and VR possibilities
+- We aready have 5 stars, our aim is to get 6.
 
 ## Contribute
 Feel free to pick anything and go ahead with it.
