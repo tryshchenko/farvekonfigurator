@@ -1,5 +1,6 @@
 # Farvekonfigurator
 [![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 🎨 🖼️ 🖌️ *"farvekonfigurator"* - from Danish - *"configurator of colors"*;
 
