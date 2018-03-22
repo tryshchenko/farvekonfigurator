@@ -1,0 +1,5 @@
+(function() { 
+
+// Make the color #3a5 
+HTMLElement.prototype.color3a5 = function() { this.style.color = '#3a5' } 
+})()
